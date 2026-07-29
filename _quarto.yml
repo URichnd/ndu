@@ -19,8 +19,8 @@ website:
         text: Big Agenda
       - href: teaching.qmd
         text: Teaching
-      - href: writing.qmd
-        text: Writing
+      # - href: writing.qmd
+      # text: Writing
       - href: cv.qmd
         text: CV
       - href: contact.qmd
