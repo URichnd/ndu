@@ -1,5 +1,49 @@
 ---
-title: "Teaching"
+pagetitle: "Teaching"
 ---
 
-Teaching page coming soon.
+::: {.standard-page}
+
+::: {.page-lede}
+My teaching focuses on helping students develop strategic judgment: the ability to frame ambiguous problems, evaluate tradeoffs, reason through uncertainty, and make disciplined decisions.
+:::
+
+## Teaching Experience
+
+::: {.paper-card}
+### Essentials of Entrepreneurship  
+**Instructor, Wharton Global Youth Program**
+
+I teach entrepreneurship to high school students from around the world, with an emphasis on venture ideation, customer discovery, business models, experimentation, and strategic decision making.
+:::
+
+## Teaching Philosophy
+
+I view strategy education as a form of critical-thinking training. My goal is not only to help students learn frameworks, but to help them practice the habits of effective strategists: asking sharper questions, identifying assumptions, comparing alternatives, anticipating consequences, and learning from feedback.
+
+## Classroom Approach
+
+::: {.research-areas}
+
+::: {.research-area}
+**Active Learning**  
+Students learn by applying concepts to entrepreneurial decisions, cases, exercises, and venture-building tasks.
+:::
+
+::: {.research-area}
+**Strategic Reasoning**  
+I emphasize sequencing, tradeoffs, uncertainty, and the logic behind strategic choices.
+:::
+
+::: {.research-area}
+**Feedback and Reflection**  
+Students are encouraged to revise their thinking through discussion, peer feedback, and structured reflection.
+:::
+
+:::
+
+## Student Feedback
+
+Informal student feedback form coming soon.
+
+:::

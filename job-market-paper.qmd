@@ -1,5 +1,31 @@
 ---
-title: "Job Market Paper"
+pagetitle: "Job Market Paper"
 ---
 
-Job market paper page coming soon.
+::: {.jmp-final-page}
+
+<section class="jmp-final-header">
+
+<h1>Strategic Delay</h1>
+
+<p class="jmp-final-meta">Job Market Paper</p>
+
+<p class="jmp-final-status"><em>Preparing for submission to Management Science.</em></p>
+
+<p class="jmp-final-download">
+<a href="files/strategic-delay.pdf">Download Paper</a>
+</p>
+
+</section>
+
+<section class="jmp-final-abstract">
+
+<h2>Abstract</h2>
+
+<p>
+This paper reframes venture capital as an external commitment that changes how entrepreneurial firms learn, revise strategy, and scale. But do founders exercise discretion over the timing of this commitment? Can we observe evidence consistent with such discretion at scale, and does delayed entry affect startups' developmental path and performance? To study these questions, I introduce a risk-adjusted measure of <em>strategic delay</em>, defined as the deviation between realized time to first venture capital financing and expected timing conditional on observable characteristics. I further use pre-VC hiring momentum to distinguish delayed firms that appear to be actively building from delayed firms whose timing may reflect financing frictions. Using a large, novel dataset that includes both venture-backed and non-venture-backed U.S. startups founded between 1990 and 2020, with outcomes observed through 2024, I document a distinct path of venture development among strategically delayed firms: they enter VC in a more developed state, and engage in less post-financing repositioning—particularly fewer large corrective shifts—consistent with shifting learning before external commitment. This pattern is strongest in industries where prior cohorts historically required more post-financing adjustment, suggesting that delay matters most when pre-financing learning is especially valuable. A survey of VC-backed founders validates both the measure and the mechanism: founders who report intentionally postponing VC exhibit deviations from expected timing roughly twice as large as those who do not, and among intentional delayers, 75% cite at least one learning-related motive, such as learning more about the market. To estimate the performance consequences of strategic delay, I use a shift-share instrumental-variables design based on exposure-weighted shocks to early-stage VC supply. The IV estimates reveal a robust performance tradeoff: conditional on reaching an exit, strategic delay increases the likelihood that the exit is favorable—among delayed firms with pre-VC hiring momentum—while reducing acquisition likelihood and producing no acceleration in post-VC position growth. Together, the evidence indicates that strategic delay reflects a distinct path of venture development in which founders shift learning before external commitment, enter VC in a more developed state, and improve exit quality without accelerating post-VC scale.
+</p>
+
+</section>
+
+:::

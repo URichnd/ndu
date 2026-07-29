@@ -95,15 +95,17 @@ body {
 }
 
 .home-section {
-  max-width: 1120px;
-  margin: 0 auto;
-  padding: 4.5rem 2rem;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  padding: 4.5rem 6vw 5rem 6vw;
 }
 
 .home-grid {
+  max-width: 1320px;
+  margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2.2rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(2rem, 5vw, 6rem);
 }
 
 .home-grid h2 {
@@ -133,4 +135,468 @@ body {
   .hero {
     min-height: 76vh;
   }
+}
+
+/* Remove Quarto's default top spacing on the homepage */
+#quarto-content {
+  padding-top: 0 !important;
+}
+
+#quarto-document-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+main.content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Big Agenda page */
+.big-agenda-page {
+  max-width: 940px;
+  margin: 0 auto;
+  padding-top: 2.5rem;
+}
+
+.big-agenda-page h2 {
+  font-size: 1.55rem;
+  font-weight: 700;
+  margin-top: 2.4rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.big-agenda-page p {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.72;
+  font-size: 1.02rem;
+}
+
+.agenda-lede {
+  font-size: 1.28rem;
+  line-height: 1.55;
+  font-weight: 500;
+  color: #0f172a;
+  border-left: 4px solid #0f3b73;
+  padding-left: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+/* Navbar active tab */
+.navbar .nav-link {
+  font-size: 0.95rem;
+  color: #4b5563 !important;
+  margin-right: 0.4rem;
+}
+
+.navbar .nav-link.active {
+  color: #0f3b73 !important;
+  font-weight: 600;
+  border-bottom: 2px solid #0f3b73;
+}
+
+.navbar .nav-link:hover {
+  color: #0f3b73 !important;
+}
+
+/* Standard interior pages */
+.standard-page {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2.7rem 1.5rem 5rem 1.5rem;
+}
+
+.page-lede {
+  font-size: 1.22rem;
+  line-height: 1.62;
+  color: #0f172a;
+  margin-bottom: 2.6rem;
+  border-left: 4px solid #0f3b73;
+  padding-left: 1.2rem;
+}
+
+.standard-page h2 {
+  font-size: 1.45rem;
+  margin-top: 2.7rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.paper-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 1.25rem 1.35rem;
+  margin-bottom: 1rem;
+  background: #ffffff;
+}
+
+.paper-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.12rem;
+}
+
+.paper-card p {
+  line-height: 1.65;
+}
+
+.featured-paper {
+  border-left: 4px solid #0f3b73;
+}
+
+.research-areas {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.1rem;
+  margin-top: 1rem;
+}
+
+.research-area {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 1.1rem;
+  line-height: 1.55;
+}
+
+@media (max-width: 800px) {
+  .research-areas {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Sparse centered Job Market Paper page */
+.jmp-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5rem 7rem 1.5rem;
+}
+
+.jmp-cover {
+  min-height: 58vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.jmp-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #0f3b73;
+  margin-bottom: 1.1rem;
+}
+
+.jmp-page h1 {
+  font-size: clamp(3.2rem, 7vw, 5.8rem);
+  font-weight: 650;
+  letter-spacing: -0.045em;
+  line-height: 0.98;
+  color: #0f172a;
+  margin-bottom: 1.2rem;
+}
+
+.jmp-status {
+  color: #4b5563;
+  font-size: 1.02rem;
+  margin-bottom: 1.35rem;
+}
+
+.jmp-button {
+  display: inline-block;
+  padding: 0.72rem 1.1rem;
+  border: 1px solid #0f3b73;
+  border-radius: 999px;
+  color: #0f3b73;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.jmp-button:hover {
+  background: #0f3b73;
+  color: white;
+  text-decoration: none;
+}
+
+.jmp-abstract {
+  max-width: 780px;
+  margin: 0 auto;
+  padding-top: 1rem;
+}
+
+.jmp-abstract h2 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 1rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.jmp-abstract p {
+  font-size: 1.03rem;
+  line-height: 1.78;
+  text-align: justify;
+  color: #1f2933;
+}
+
+
+/* Job Market Paper page - compact one-screen version */
+.jmp2-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem 1rem 1.5rem;
+}
+
+.jmp2-cover {
+  padding: 0;
+  margin: 0 0 1.1rem 0;
+  border-bottom: none;
+  min-height: 0;
+  display: block;
+  text-align: left;
+}
+
+.jmp2-cover h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
+  color: #0f172a;
+  margin: 0 0 0.55rem 0;
+}
+
+.jmp2-kicker {
+  font-size: 0.95rem;
+  color: #1f2933;
+  margin-bottom: 0.15rem;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+.jmp2-status {
+  color: #4b5563;
+  font-size: 0.95rem;
+  margin-bottom: 0.65rem;
+}
+
+.jmp2-button {
+  display: inline-block !important;
+  padding: 0.45rem 0.8rem !important;
+  border: 1px solid #0f3b73 !important;
+  border-radius: 999px !important;
+  color: #0f3b73 !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+  font-size: 0.88rem !important;
+}
+
+.jmp2-abstract {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-top: 0;
+}
+
+.jmp2-abstract h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 0 0 0.45rem 0;
+  padding: 0;
+  border-bottom: none;
+}
+
+.jmp2-abstract p {
+  font-size: 0.88rem;
+  line-height: 1.42;
+  text-align: justify;
+  color: #1f2933;
+  margin: 0;
+}
+
+/* Small final adjustments to JMP page */
+.jmp2-page {
+  padding-top: 1.6rem;
+}
+
+.jmp2-cover h1 {
+  margin-top: 0.4rem;
+  margin-bottom: 0.65rem;
+}
+
+.jmp2-abstract p {
+  font-size: 0.96rem;
+  line-height: 1.5;
+}
+
+
+/* Job Market Paper page - final clean reset */
+.jmp-final-page {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 1.4rem 1.5rem 1.5rem 1.5rem;
+}
+
+.jmp-final-header {
+  margin: 0 0 1.1rem 0;
+  padding: 0;
+}
+
+.jmp-final-header h1 {
+  margin: 0 0 0.45rem 0;
+  padding: 0;
+  font-size: 2.35rem;
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  color: #0f172a;
+}
+
+.jmp-final-meta {
+  margin: 0 0 0.12rem 0;
+  padding: 0;
+  font-size: 0.96rem;
+  color: #1f2933;
+}
+
+.jmp-final-status {
+  margin: 0 0 0.55rem 0;
+  padding: 0;
+  font-size: 0.94rem;
+  color: #4b5563;
+}
+
+.jmp-final-download {
+  margin: 0;
+  padding: 0;
+}
+
+.jmp-final-download a {
+  display: inline-block;
+  padding: 0.42rem 0.75rem;
+  border: 1px solid #0f3b73;
+  border-radius: 999px;
+  color: #0f3b73;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.88rem;
+}
+
+.jmp-final-download a:hover {
+  background: #0f3b73;
+  color: white;
+}
+
+.jmp-final-abstract {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.jmp-final-abstract h2 {
+  margin: 0 0 0.45rem 0;
+  padding: 0;
+  border: none;
+  font-size: 1.12rem;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.jmp-final-abstract p {
+  margin: 0;
+  padding: 0;
+  font-size: 0.94rem;
+  line-height: 1.42;
+  text-align: justify;
+  color: #1f2933;
+}
+
+
+/* Home page about section */
+.home-about {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 1.8rem 1.5rem;
+}
+
+.home-about-inner {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.home-about p {
+  font-size: 1.04rem;
+  line-height: 1.72;
+  color: #1f2933;
+  text-align: justify;
+  margin-bottom: 1.15rem;
+}
+
+
+/* =========================================================
+   Homepage hero text positioning and fade-in
+   ========================================================= */
+
+.hero-content {
+  max-width: 760px;
+  margin-left: clamp(2rem, 9vw, 9rem);
+  margin-right: auto;
+  text-align: left;
+  animation: heroFadeIn 1.15s ease-out 0.25s both;
+}
+
+.hero-buttons {
+  justify-content: flex-start;
+}
+
+@keyframes heroFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Keep hero name cleaner on desktop */
+.hero-content {
+  max-width: 900px;
+  margin-left: clamp(2rem, 7vw, 7rem);
+}
+
+.hero-content h1 {
+  white-space: nowrap;
+  font-size: clamp(4rem, 6.5vw, 6.4rem);
+}
+
+/* =========================================================
+   Navbar positioning and social media icon spacing
+   ========================================================= */
+
+/* Shift the right-aligned navbar group slightly toward the center */
+.navbar > .container-fluid {
+  padding-right: clamp(5rem, 11vw, 11rem);
+}
+
+/* Add clear space between Contact and LinkedIn icon */
+.navbar .quarto-navbar-tools {
+  margin-left: 2.75rem;
+}
+
+/* Keep the icon compact */
+.navbar .quarto-navbar-tools .nav-link {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
 }

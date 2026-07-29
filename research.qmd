@@ -1,5 +1,69 @@
 ---
-title: "Research"
+pagetitle: "Research"
 ---
 
-Research page coming soon.
+::: {.standard-page}
+
+::: {.page-lede}
+My research examines entrepreneurial strategy, startup financing, venture development, and adaptation under uncertainty. I am especially interested in how firms sequence consequential decisions when information is incomplete and resources are constrained.
+:::
+
+## Working Papers
+
+::: {.paper-card .featured-paper}
+### Strategic Delay 
+
+**Job Market Paper**
+
+A brief abstract or paper summary will go here. This should be a concise version of the paper’s core question, setting, empirical approach, and contribution.
+
+[Read more →](job-market-paper.html)
+
+*Preparing for submission to Management Science.*
+:::
+
+::: {.paper-card}
+### Product--Market Fit and the Sequencing of Customer versus Investor Validation
+
+**Working Paper**
+
+*Preparing for submission to Strategic Management Journal.*
+:::
+
+
+## Works in Progress
+
+::: {.paper-card}
+### Artificial Intelligence, Customer Feedback and the Changing Speed of Product--Market Learning
+
+Status: *Analysis in progress.*
+:::
+
+::: {.paper-card}
+### Organizational Design, Product--Market Fit, and Entrepreneurial Performance
+
+Status: *Data collection Complete.*
+:::
+
+## Research Areas
+
+::: {.research-areas}
+::: {.research-area}
+**Entrepreneurial Strategy**  
+How young firms make strategic choices under uncertainty.
+:::
+
+::: {.research-area}
+**Strategic Sequencing**  
+how strategists use sequencing to navigate consequential decisions under uncertainty.
+:::
+
+::: {.research-area}
+**Startup Financing**  
+How ventures time, structure, and respond to external capital.
+:::
+
+
+:::
+
+:::

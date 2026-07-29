@@ -1,0 +1,35 @@
+---
+pagetitle: "Writing"
+---
+
+::: {.standard-page}
+
+::: {.page-lede}
+This page will collect short essays, research notes, teaching reflections, and occasional writing for students, founders, and scholars interested in entrepreneurship, strategy, and venture development.
+:::
+
+## Notes and Essays
+
+::: {.paper-card}
+### Coming Soon
+
+I will use this space for short pieces on entrepreneurial strategy, startup development, venture financing, strategic thinking, and lessons from teaching entrepreneurship.
+:::
+
+## For Students
+
+::: {.paper-card}
+### Letters and Reflections
+
+I also plan to use this page to share occasional notes for former students who want to stay connected with entrepreneurship, strategy, and career development.
+:::
+
+## Datasets and Projects
+
+::: {.paper-card}
+### Data Resources and Ongoing Projects
+
+Selected datasets, project writeups, and research resources may be added here over time.
+:::
+
+:::

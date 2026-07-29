@@ -1,5 +1,15 @@
 ---
-title: "CV"
+pagetitle: "CV"
 ---
 
-CV page coming soon.
+::: {.standard-page}
+
+::: {.page-lede}
+My current academic CV is available below.
+:::
+
+<p>
+<a class="button-link" href="files/ndu-ugwuanyi-cv.pdf">Download CV</a>
+</p>
+
+:::

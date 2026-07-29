@@ -4,8 +4,11 @@ project:
 
 website:
   title: "Ndu Ugwuanyi"
+  search: false
   navbar:
-    left:
+    title: false
+    pinned: true
+    right:
       - href: index.qmd
         text: Home
       - href: research.qmd
@@ -16,15 +19,20 @@ website:
         text: Big Agenda
       - href: teaching.qmd
         text: Teaching
-      - href: research-notes.qmd
-        text: Research Notes
+      - href: writing.qmd
+        text: Writing
       - href: cv.qmd
         text: CV
       - href: contact.qmd
         text: Contact
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE
+        aria-label: LinkedIn
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
+    anchor-sections: false

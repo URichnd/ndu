@@ -29,6 +29,31 @@ title-block-banner: false
   </div>
 </section>
 
+
+<section class="home-about">
+  <div class="home-about-inner">
+
+    <p>
+      I am a doctoral candidate in Strategy and Entrepreneurship at the Wharton School, University of Pennsylvania. My research examines how entrepreneurs make high-stakes strategic decisions under uncertainty, with a particular focus on venture development, product-market learning, financing timing, and the commercialization of emerging technologies.
+    </p>
+
+    <p>
+      My interest in strategy began well before graduate school. As a teenager, I helped manage a family business in a competitive market, an experience that gave me an early view of how resource constraints, competitive pressure, and judgment shape firm outcomes. I later developed a parallel interest in decision-making through competitive chess, where I am ranked above the 99th percentile on chess.com. I have also used chess as an empirical setting to study how experience, expertise, and attention shape strategic behavior.
+    </p>
+
+    <p>
+      Before beginning my PhD, I co-founded a revenue-generating AI-based startup with engineers across Canada, the United States, and the Netherlands. That experience deepened my interest in entrepreneurial experimentation, technology commercialization, and the practical challenges of moving from product ideas to scalable firms.
+    </p>
+
+    <p>
+      I am currently on the academic job market for assistant professor positions in strategy and entrepreneurship. I am especially interested in schools where I can pursue rigorous and unconventional research, contribute to high-quality teaching, and translate academic insights into practice.
+    </p>
+
+  </div>
+</section>
+```
+
+<!--
 <section class="home-section">
   <div class="home-grid">
     <div>
@@ -60,3 +85,4 @@ title-block-banner: false
   </div>
 </section>
 ```
+-->

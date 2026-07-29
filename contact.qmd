@@ -1,5 +1,15 @@
 ---
-title: "Contact"
+pagetitle: "Contact"
 ---
 
-Contact page coming soon.
+::: {.standard-page}
+
+::: {.page-lede}
+For research conversations, speaking invitations, teaching inquiries, or job-market materials, please contact me by email.
+:::
+
+<p>
+<a class="button-link" href="mailto:ndubuisi@wharton.upenn.edu">Contact Me</a>
+</p>
+
+:::

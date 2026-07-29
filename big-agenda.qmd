@@ -1,5 +1,37 @@
 ---
-title: "Big Agenda"
+pagetitle: "Big Agenda"
 ---
 
-Big Agenda page coming soon.
+::: {.big-agenda-page}
+
+::: {.agenda-lede}
+I am building an academic career around one central interest: how people think strategically, sequence consequential decisions, and develop judgment under uncertainty.
+:::
+
+My academic agenda is rooted in a simple conviction: strategy is not only about choosing what to do, but also about understanding what to do first, what to defer, what to preserve, and when to commit.
+
+I am especially interested in two broad problems.
+
+## Sequencing
+
+The first is to understand how strategists use sequencing to navigate consequential decisions under uncertainty. Firms, entrepreneurs, investors, and competitors rarely make all choices at once. They stage commitments, delay certain moves, accelerate others, experiment, reposition, and preserve optionality until better information arrives.
+
+My research asks: when does this kind of sequencing improve performance, and when does it fail? When is delay strategic rather than merely passive? When does early commitment create advantage, and when does it lock firms into the wrong path? More broadly, how do strategists use the ordering of decisions to shape outcomes when the future is uncertain?
+
+## Strategy Education and Strategic Thinking
+
+The second is to understand how strategy education can translate into better strategic thinking among students of business. I view this as a problem of strengthening critical thinking: helping students move beyond the memorization of frameworks toward the disciplined practice of reasoning through complex strategic situations.
+
+This problem has become even more important in the age of AI. As analytical tools become more powerful and more widely available, the distinctive value of business education will depend increasingly on whether students can ask better questions, structure ambiguous problems, evaluate tradeoffs, and make thoughtful judgments under uncertainty.
+
+## How I Am Addressing These Problems
+
+I study these questions across three settings.
+
+First, I use large-scale data on startups to examine how young firms sequence financing, positioning, adaptation, and growth. Startups provide a powerful empirical setting because early strategic choices are made under severe uncertainty, resource constraints, and shifting external evaluation.
+
+Second, I use chess games as a setting for studying strategic sequencing in a highly structured environment. Chess offers rich data on ordered decision making, foresight, commitment, mistakes, and performance, allowing me to examine how strategic choices unfold move by move.
+
+Third, I develop pedagogical approaches that bring strategic thinking exercises into the classroom. My goal is to design teaching methods that help students practice strategy as a form of disciplined reasoning: identifying the problem, considering alternatives, anticipating responses, sequencing actions, and learning from feedback.
+
+:::
