@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ndu Ugwuanyi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: job-market-paper.qmd
+        text: Job Market Paper
+      - href: big-agenda.qmd
+        text: Big Agenda
+      - href: teaching.qmd
+        text: Teaching
+      - href: research-notes.qmd
+        text: Research Notes
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

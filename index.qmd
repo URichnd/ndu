@@ -1,0 +1,63 @@
+---
+title: "Ndu Ugwuanyi"
+page-layout: full
+title-block-banner: false
+---
+
+```{=html}
+<section class="hero">
+  <video class="hero-video" autoplay muted loop playsinline>
+    <source src="media/teaching-hero.mp4" type="video/mp4">
+  </video>
+
+  <div class="hero-overlay"></div>
+
+  <div class="hero-content">
+    <p class="eyebrow">Strategy · Entrepreneurship · Innovation</p>
+    <h1>Ndu Ugwuanyi</h1>
+    <p class="subtitle">PhD Candidate, The Wharton School</p>
+
+    <p class="hero-text">
+      I study how early-stage ventures make strategic choices under uncertainty,
+      acquire resources, and adapt as they move from founding to external financing.
+    </p>
+
+    <div class="hero-buttons">
+      <a href="job-market-paper.html">Job Market Paper</a>
+      <a href="research.html">Research</a>
+      <a href="cv.html">CV</a>
+    </div>
+  </div>
+</section>
+
+<section class="home-section">
+  <div class="home-grid">
+    <div>
+      <h2>Research</h2>
+      <p>
+        My research examines strategic sequencing, startup financing, venture development,
+        and adaptation under uncertainty.
+      </p>
+      <p><a href="research.html">View research →</a></p>
+    </div>
+
+    <div>
+      <h2>Big Agenda</h2>
+      <p>
+        I am building a research and teaching agenda around how people think strategically,
+        sequence decisions, and develop judgment.
+      </p>
+      <p><a href="big-agenda.html">Read the agenda →</a></p>
+    </div>
+
+    <div>
+      <h2>Teaching</h2>
+      <p>
+        My teaching emphasizes active learning, disciplined reasoning, and the practice
+        of strategic thinking in entrepreneurial settings.
+      </p>
+      <p><a href="teaching.html">View teaching →</a></p>
+    </div>
+  </div>
+</section>
+```
