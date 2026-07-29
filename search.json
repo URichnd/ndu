@@ -1,10 +1,115 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Ndu Ugwuanyi",
     "section": "",
-    "text": "Teaching page coming soon."
+    "text": "This page will collect short essays, research notes, teaching reflections, and occasional writing for students, founders, and scholars interested in entrepreneurship, strategy, and venture development.\n\n\n\n\n\nI will use this space for short pieces on entrepreneurial strategy, startup development, venture financing, strategic thinking, and lessons from teaching entrepreneurship.\n\n\n\n\n\n\nI also plan to use this page to share occasional notes for former students who want to stay connected with entrepreneurship, strategy, and career development.\n\n\n\n\n\n\nSelected datasets, project writeups, and research resources may be added here over time."
+  },
+  {
+    "objectID": "writing.html#notes-and-essays",
+    "href": "writing.html#notes-and-essays",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "I will use this space for short pieces on entrepreneurial strategy, startup development, venture financing, strategic thinking, and lessons from teaching entrepreneurship."
+  },
+  {
+    "objectID": "writing.html#for-students",
+    "href": "writing.html#for-students",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "I also plan to use this page to share occasional notes for former students who want to stay connected with entrepreneurship, strategy, and career development."
+  },
+  {
+    "objectID": "writing.html#datasets-and-projects",
+    "href": "writing.html#datasets-and-projects",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "Selected datasets, project writeups, and research resources may be added here over time."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "My research examines entrepreneurial strategy, startup financing, venture development, and adaptation under uncertainty. I am especially interested in how firms sequence consequential decisions when information is incomplete and resources are constrained.\n\n\n\n\n\nJob Market Paper\nA brief abstract or paper summary will go here. This should be a concise version of the paper’s core question, setting, empirical approach, and contribution.\nRead more →\nPreparing for submission to Management Science.\n\n\n\nWorking Paper\nPreparing for submission to Strategic Management Journal.\n\n\n\n\n\n\nStatus: Analysis in progress.\n\n\n\nStatus: Data collection Complete.\n\n\n\n\n\n\nEntrepreneurial Strategy\nHow young firms make strategic choices under uncertainty.\n\n\nStrategic Sequencing\nhow strategists use sequencing to navigate consequential decisions under uncertainty.\n\n\nStartup Financing\nHow ventures time, structure, and respond to external capital."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "Job Market Paper\nA brief abstract or paper summary will go here. This should be a concise version of the paper’s core question, setting, empirical approach, and contribution.\nRead more →\nPreparing for submission to Management Science.\n\n\n\nWorking Paper\nPreparing for submission to Strategic Management Journal."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "Status: Analysis in progress.\n\n\n\nStatus: Data collection Complete."
+  },
+  {
+    "objectID": "research.html#research-areas",
+    "href": "research.html#research-areas",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "Entrepreneurial Strategy\nHow young firms make strategic choices under uncertainty.\n\n\nStrategic Sequencing\nhow strategists use sequencing to navigate consequential decisions under uncertainty.\n\n\nStartup Financing\nHow ventures time, structure, and respond to external capital."
+  },
+  {
+    "objectID": "job-market-paper.html",
+    "href": "job-market-paper.html",
+    "title": "\nStrategic Delay\n",
+    "section": "",
+    "text": "Job Market Paper\n\n\nPreparing for submission to Management Science.\n\n\nDownload Paper\n\n\n\n\nAbstract\n\n\nThis paper reframes venture capital as an external commitment that changes how entrepreneurial firms learn, revise strategy, and scale. But do founders exercise discretion over the timing of this commitment? Can we observe evidence consistent with such discretion at scale, and does delayed entry affect startups’ developmental path and performance? To study these questions, I introduce a risk-adjusted measure of strategic delay, defined as the deviation between realized time to first venture capital financing and expected timing conditional on observable characteristics. I further use pre-VC hiring momentum to distinguish delayed firms that appear to be actively building from delayed firms whose timing may reflect financing frictions. Using a large, novel dataset that includes both venture-backed and non-venture-backed U.S. startups founded between 1990 and 2020, with outcomes observed through 2024, I document a distinct path of venture development among strategically delayed firms: they enter VC in a more developed state, and engage in less post-financing repositioning—particularly fewer large corrective shifts—consistent with shifting learning before external commitment. This pattern is strongest in industries where prior cohorts historically required more post-financing adjustment, suggesting that delay matters most when pre-financing learning is especially valuable. A survey of VC-backed founders validates both the measure and the mechanism: founders who report intentionally postponing VC exhibit deviations from expected timing roughly twice as large as those who do not, and among intentional delayers, 75% cite at least one learning-related motive, such as learning more about the market. To estimate the performance consequences of strategic delay, I use a shift-share instrumental-variables design based on exposure-weighted shocks to early-stage VC supply. The IV estimates reveal a robust performance tradeoff: conditional on reaching an exit, strategic delay increases the likelihood that the exit is favorable—among delayed firms with pre-VC hiring momentum—while reducing acquisition likelihood and producing no acceleration in post-VC position growth. Together, the evidence indicates that strategic delay reflects a distinct path of venture development in which founders shift learning before external commitment, enter VC in a more developed state, and improve exit quality without accelerating post-VC scale."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "My current academic CV is available below.\n\n\nDownload CV"
+  },
+  {
+    "objectID": "big-agenda.html",
+    "href": "big-agenda.html",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "I am building an academic career around one central interest: how people think strategically, sequence consequential decisions, and develop judgment under uncertainty.\n\nMy academic agenda is rooted in a simple conviction: strategy is not only about choosing what to do, but also about understanding what to do first, what to defer, what to preserve, and when to commit.\nI am especially interested in two broad problems.\n\n\nThe first is to understand how strategists use sequencing to navigate consequential decisions under uncertainty. Firms, entrepreneurs, investors, and competitors rarely make all choices at once. They stage commitments, delay certain moves, accelerate others, experiment, reposition, and preserve optionality until better information arrives.\nMy research asks: when does this kind of sequencing improve performance, and when does it fail? When is delay strategic rather than merely passive? When does early commitment create advantage, and when does it lock firms into the wrong path? More broadly, how do strategists use the ordering of decisions to shape outcomes when the future is uncertain?\n\n\n\nThe second is to understand how strategy education can translate into better strategic thinking among students of business. I view this as a problem of strengthening critical thinking: helping students move beyond the memorization of frameworks toward the disciplined practice of reasoning through complex strategic situations.\nThis problem has become even more important in the age of AI. As analytical tools become more powerful and more widely available, the distinctive value of business education will depend increasingly on whether students can ask better questions, structure ambiguous problems, evaluate tradeoffs, and make thoughtful judgments under uncertainty.\n\n\n\nI study these questions across three settings.\nFirst, I use large-scale data on startups to examine how young firms sequence financing, positioning, adaptation, and growth. Startups provide a powerful empirical setting because early strategic choices are made under severe uncertainty, resource constraints, and shifting external evaluation.\nSecond, I use chess games as a setting for studying strategic sequencing in a highly structured environment. Chess offers rich data on ordered decision making, foresight, commitment, mistakes, and performance, allowing me to examine how strategic choices unfold move by move.\nThird, I develop pedagogical approaches that bring strategic thinking exercises into the classroom. My goal is to design teaching methods that help students practice strategy as a form of disciplined reasoning: identifying the problem, considering alternatives, anticipating responses, sequencing actions, and learning from feedback."
+  },
+  {
+    "objectID": "big-agenda.html#sequencing",
+    "href": "big-agenda.html#sequencing",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "The first is to understand how strategists use sequencing to navigate consequential decisions under uncertainty. Firms, entrepreneurs, investors, and competitors rarely make all choices at once. They stage commitments, delay certain moves, accelerate others, experiment, reposition, and preserve optionality until better information arrives.\nMy research asks: when does this kind of sequencing improve performance, and when does it fail? When is delay strategic rather than merely passive? When does early commitment create advantage, and when does it lock firms into the wrong path? More broadly, how do strategists use the ordering of decisions to shape outcomes when the future is uncertain?"
+  },
+  {
+    "objectID": "big-agenda.html#strategy-education-and-strategic-thinking",
+    "href": "big-agenda.html#strategy-education-and-strategic-thinking",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "The second is to understand how strategy education can translate into better strategic thinking among students of business. I view this as a problem of strengthening critical thinking: helping students move beyond the memorization of frameworks toward the disciplined practice of reasoning through complex strategic situations.\nThis problem has become even more important in the age of AI. As analytical tools become more powerful and more widely available, the distinctive value of business education will depend increasingly on whether students can ask better questions, structure ambiguous problems, evaluate tradeoffs, and make thoughtful judgments under uncertainty."
+  },
+  {
+    "objectID": "big-agenda.html#how-i-am-addressing-these-problems",
+    "href": "big-agenda.html#how-i-am-addressing-these-problems",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "I study these questions across three settings.\nFirst, I use large-scale data on startups to examine how young firms sequence financing, positioning, adaptation, and growth. Startups provide a powerful empirical setting because early strategic choices are made under severe uncertainty, resource constraints, and shifting external evaluation.\nSecond, I use chess games as a setting for studying strategic sequencing in a highly structured environment. Chess offers rich data on ordered decision making, foresight, commitment, mistakes, and performance, allowing me to examine how strategic choices unfold move by move.\nThird, I develop pedagogical approaches that bring strategic thinking exercises into the classroom. My goal is to design teaching methods that help students practice strategy as a form of disciplined reasoning: identifying the problem, considering alternatives, anticipating responses, sequencing actions, and learning from feedback."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "For research conversations, speaking invitations, teaching inquiries, or job-market materials, please contact me by email.\n\n\nContact Me"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ndu Ugwuanyi",
+    "section": "",
+    "text": "Strategy · Entrepreneurship · Innovation\n    Ndu Ugwuanyi\n    PhD Candidate, The Wharton School\n\n    \n      I study how early-stage ventures make strategic choices under uncertainty,\n      acquire resources, and adapt as they move from founding to external financing.\n    \n\n    \n      Job Market Paper\n      Research\n      CV\n    \n  \n\n\n\n\n  \n\n    \n      I am a doctoral candidate in Strategy and Entrepreneurship at the Wharton School, University of Pennsylvania. My research examines how entrepreneurs make high-stakes strategic decisions under uncertainty, with a particular focus on venture development, product-market learning, financing timing, and the commercialization of emerging technologies.\n    \n\n    \n      My interest in strategy began well before graduate school. As a teenager, I helped manage a family business in a competitive market, an experience that gave me an early view of how resource constraints, competitive pressure, and judgment shape firm outcomes. I later developed a parallel interest in decision-making through competitive chess, where I am ranked above the 99th percentile on chess.com. I have also used chess as an empirical setting to study how experience, expertise, and attention shape strategic behavior.\n    \n\n    \n      Before beginning my PhD, I co-founded a revenue-generating AI-based startup with engineers across Canada, the United States, and the Netherlands. That experience deepened my interest in entrepreneurial experimentation, technology commercialization, and the practical challenges of moving from product ideas to scalable firms.\n    \n\n    \n      I am currently on the academic job market for assistant professor positions in strategy and entrepreneurship. I am especially interested in schools where I can pursue rigorous and unconventional research, contribute to high-quality teaching, and translate academic insights into practice."
   },
   {
     "objectID": "research-notes.html",
@@ -14,45 +119,38 @@
     "text": "Research notes coming soon."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
     "title": "Ndu Ugwuanyi",
     "section": "",
-    "text": "Strategy · Entrepreneurship · Innovation\n    Ndu Ugwuanyi\n    PhD Candidate, The Wharton School\n\n    \n      I study how early-stage ventures make strategic choices under uncertainty,\n      acquire resources, and adapt as they move from founding to external financing.\n    \n\n    \n      Job Market Paper\n      Research\n      CV\n    \n  \n\n\n\n  \n    \n      Research\n      \n        My research examines strategic sequencing, startup financing, venture development,\n        and adaptation under uncertainty.\n      \n      View research →\n    \n\n    \n      Big Agenda\n      \n        I am building a research and teaching agenda around how people think strategically,\n        sequence decisions, and develop judgment.\n      \n      Read the agenda →\n    \n\n    \n      Teaching\n      \n        My teaching emphasizes active learning, disciplined reasoning, and the practice\n        of strategic thinking in entrepreneurial settings.\n      \n      View teaching →"
+    "text": "My teaching focuses on helping students develop strategic judgment: the ability to frame ambiguous problems, evaluate tradeoffs, reason through uncertainty, and make disciplined decisions.\n\n\n\n\n\nInstructor, Wharton Global Youth Program\nI teach entrepreneurship to high school students from around the world, with an emphasis on venture ideation, customer discovery, business models, experimentation, and strategic decision making.\n\n\n\n\nI view strategy education as a form of critical-thinking training. My goal is not only to help students learn frameworks, but to help them practice the habits of effective strategists: asking sharper questions, identifying assumptions, comparing alternatives, anticipating consequences, and learning from feedback.\n\n\n\n\n\nActive Learning\nStudents learn by applying concepts to entrepreneurial decisions, cases, exercises, and venture-building tasks.\n\n\nStrategic Reasoning\nI emphasize sequencing, tradeoffs, uncertainty, and the logic behind strategic choices.\n\n\nFeedback and Reflection\nStudents are encouraged to revise their thinking through discussion, peer feedback, and structured reflection.\n\n\n\n\n\nInformal student feedback form coming soon."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Ndu Ugwuanyi",
     "section": "",
-    "text": "Contact page coming soon."
+    "text": "Instructor, Wharton Global Youth Program\nI teach entrepreneurship to high school students from around the world, with an emphasis on venture ideation, customer discovery, business models, experimentation, and strategic decision making."
   },
   {
-    "objectID": "big-agenda.html",
-    "href": "big-agenda.html",
-    "title": "Big Agenda",
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Ndu Ugwuanyi",
     "section": "",
-    "text": "Big Agenda page coming soon."
+    "text": "I view strategy education as a form of critical-thinking training. My goal is not only to help students learn frameworks, but to help them practice the habits of effective strategists: asking sharper questions, identifying assumptions, comparing alternatives, anticipating consequences, and learning from feedback."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "teaching.html#classroom-approach",
+    "href": "teaching.html#classroom-approach",
+    "title": "Ndu Ugwuanyi",
     "section": "",
-    "text": "CV page coming soon."
+    "text": "Active Learning\nStudents learn by applying concepts to entrepreneurial decisions, cases, exercises, and venture-building tasks.\n\n\nStrategic Reasoning\nI emphasize sequencing, tradeoffs, uncertainty, and the logic behind strategic choices.\n\n\nFeedback and Reflection\nStudents are encouraged to revise their thinking through discussion, peer feedback, and structured reflection."
   },
   {
-    "objectID": "job-market-paper.html",
-    "href": "job-market-paper.html",
-    "title": "Job Market Paper",
+    "objectID": "teaching.html#student-feedback",
+    "href": "teaching.html#student-feedback",
+    "title": "Ndu Ugwuanyi",
     "section": "",
-    "text": "Job market paper page coming soon."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Research page coming soon."
+    "text": "Informal student feedback form coming soon."
   }
 ]
