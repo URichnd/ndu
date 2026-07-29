@@ -1,5 +1,4 @@
 ---
-title: "Ndu Ugwuanyi"
 page-layout: full
 title-block-banner: false
 ---
