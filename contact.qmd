@@ -5,7 +5,7 @@ pagetitle: "Contact"
 ::: {.standard-page}
 
 ::: {.page-lede}
-For research conversations, speaking invitations, teaching inquiries, or job-market materials, please contact me by email.
+For research conversations, external engagements, or job-market materials, please contact me by email.
 :::
 
 <p>
