@@ -602,11 +602,16 @@ main.content {
 }
 
 /* =========================================================
-   Teaching page sliding student comments
+   Teaching page text and sliding student comments
    ========================================================= */
 
+.teaching-page p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .student-comment-note {
-  font-size: 0.86rem;
+  font-size: 0.84rem;
   color: #4b5563;
   margin-bottom: 1rem;
 }
@@ -614,18 +619,23 @@ main.content {
 .student-carousel {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 1.15rem;
   margin: 1rem 0 2.5rem 0;
 }
 
 .student-comment-window {
   overflow: hidden;
   width: 100%;
+  min-height: 310px;
+  display: flex;
+  align-items: center;
 }
 
 .student-comment-track {
   display: flex;
+  align-items: center;
   transition: transform 0.45s ease;
+  width: 100%;
 }
 
 .student-comment-slide {
@@ -635,10 +645,14 @@ main.content {
   border-left: none !important;
   border-right: none !important;
   background: transparent;
+  min-height: 310px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .student-comment-slide p {
-  font-size: 0.84rem;
+  font-size: 0.8rem;
   line-height: 1.55;
   color: #1f2933;
   text-align: justify;
@@ -651,13 +665,37 @@ main.content {
   border: none;
   background: transparent;
   color: #0f3b73;
-  font-size: 1.55rem;
+  font-size: 2.15rem;
+  font-weight: 900;
   line-height: 1;
   cursor: pointer;
-  padding: 0.2rem 0.4rem;
+  padding: 0;
+  width: 2.2rem;
+  flex: 0 0 2.2rem;
 }
 
 .student-comment-prev:hover,
 .student-comment-next:hover {
+  color: #0f172a;
+}
+
+/* =========================================================
+   Job Market Paper request link
+   ========================================================= */
+
+.jmp-final-request {
+  margin: 0.45rem 0 0 0;
+  font-size: 0.95rem;
+  color: #4b5563;
+}
+
+.jmp-final-request a {
+  color: #0f3b73;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.jmp-final-request a:hover {
   color: #0f172a;
 }
