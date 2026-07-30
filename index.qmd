@@ -38,7 +38,7 @@ title-block-banner: false
     </p>
 
     <p>
-      My interest in strategy began well before graduate school. As a teenager, I helped manage a family business in a competitive market, an experience that gave me an early view of how resource constraints, competitive pressure, and judgment shape firm outcomes. I later developed a parallel interest in decision-making through competitive chess, where I am ranked above the 99th percentile on chess.com. I have also used chess as an empirical setting to study how experience, expertise, and attention shape strategic behavior.
+      My interest in strategy began well before graduate school. As a teenager, I helped manage a family business in a competitive market, an experience that gave me an early view of how resource constraints, competitive pressure, and judgment shape firm outcomes. I later developed a parallel interest in decision-making through competitive chess. I have also used chess as an empirical setting to study how experience, expertise, and attention shape strategic behavior.
     </p>
 
     <p>
