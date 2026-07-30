@@ -5,7 +5,7 @@ pagetitle: "CV"
 ::: {.standard-page}
 
 ::: {.page-lede}
-My current academic CV is available below.
+My academic CV is available below.
 :::
 
 <p>

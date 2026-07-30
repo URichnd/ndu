@@ -2,10 +2,10 @@
 pagetitle: "Research"
 ---
 
-::: {.standard-page}
+::: {.standard-page .research-page}
 
 ::: {.page-lede}
-My research examines entrepreneurial strategy, startup financing, venture development, and adaptation under uncertainty. I am especially interested in how firms sequence consequential decisions when information is incomplete and resources are constrained.
+My research advances a sequencing perspective on entrepreneurial development: founders exercise discretion over when strategic activities occur relative to one another, and this sequencing is a source of performance heterogeneity
 :::
 
 ## Working Papers
@@ -15,11 +15,13 @@ My research examines entrepreneurial strategy, startup financing, venture develo
 
 **Job Market Paper**
 
-A brief abstract or paper summary will go here. This should be a concise version of the paper’s core question, setting, empirical approach, and contribution.
+Strategic Delay examines whether founders exercise discretion over when to accept venture capital and the relationship between the timing of entry and venture development. I introduce a risk-adjusted measure of delay. Startups that appear to delay strategically seem to enter venture capital in a more developed state, engage in less post-financing repositioning, and face a tradeoff between exit quality and acquisition likelihood.
+
 
 [Read more →](job-market-paper.html)
 
-*Preparing for submission to Management Science.*
+*Paper available on request.*
+
 :::
 
 ::: {.paper-card}
@@ -27,7 +29,8 @@ A brief abstract or paper summary will go here. This should be a concise version
 
 **Working Paper**
 
-*Preparing for submission to Strategic Management Journal.*
+*Manuscript available on request.*
+
 :::
 
 
@@ -36,34 +39,14 @@ A brief abstract or paper summary will go here. This should be a concise version
 ::: {.paper-card}
 ### Artificial Intelligence, Customer Feedback and the Changing Speed of Product--Market Learning
 
-Status: *Analysis in progress.*
+*Analysis in progress.*
 :::
 
 ::: {.paper-card}
 ### Organizational Design, Product--Market Fit, and Entrepreneurial Performance
 
-Status: *Data collection Complete.*
+*Data collection Complete.*
 :::
 
-## Research Areas
-
-::: {.research-areas}
-::: {.research-area}
-**Entrepreneurial Strategy**  
-How young firms make strategic choices under uncertainty.
-:::
-
-::: {.research-area}
-**Strategic Sequencing**  
-how strategists use sequencing to navigate consequential decisions under uncertainty.
-:::
-
-::: {.research-area}
-**Startup Financing**  
-How ventures time, structure, and respond to external capital.
-:::
-
-
-:::
 
 :::

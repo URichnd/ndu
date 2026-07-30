@@ -699,3 +699,12 @@ main.content {
 .jmp-final-request a:hover {
   color: #0f172a;
 }
+
+/* =========================================================
+   Research page text justification
+   ========================================================= */
+
+.research-page p {
+  text-align: justify;
+  text-justify: inter-word;
+}

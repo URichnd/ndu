@@ -16,7 +16,7 @@ website:
       - href: job-market-paper.qmd
         text: Job Market Paper
       - href: big-agenda.qmd
-        text: Big Agenda
+        text: Research Agenda
       - href: teaching.qmd
         text: Teaching
       # - href: writing.qmd
