@@ -17,8 +17,7 @@ title-block-banner: false
     <p class="subtitle">PhD Candidate, The Wharton School</p>
 
     <p class="hero-text">
-      I study how entrepreneurial firms make strategic choices under uncertainty,
-      as they move from founding to scaling.
+      I study strategic decision-making under uncertainty using entrepreneurial contexts.
     </p>
 
     <div class="hero-buttons">
