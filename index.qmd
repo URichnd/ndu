@@ -17,8 +17,8 @@ title-block-banner: false
     <p class="subtitle">PhD Candidate, The Wharton School</p>
 
     <p class="hero-text">
-      I study how early-stage ventures make strategic choices under uncertainty,
-      acquire resources, and adapt as they move from founding to external financing.
+      I study how entrepreneurial firms make strategic choices under uncertainty,
+      as they move from founding to scaling.
     </p>
 
     <div class="hero-buttons">
