@@ -600,3 +600,64 @@ main.content {
   padding-left: 0.25rem;
   padding-right: 0.25rem;
 }
+
+/* =========================================================
+   Teaching page sliding student comments
+   ========================================================= */
+
+.student-comment-note {
+  font-size: 0.86rem;
+  color: #4b5563;
+  margin-bottom: 1rem;
+}
+
+.student-carousel {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem 0 2.5rem 0;
+}
+
+.student-comment-window {
+  overflow: hidden;
+  width: 100%;
+}
+
+.student-comment-track {
+  display: flex;
+  transition: transform 0.45s ease;
+}
+
+.student-comment-slide {
+  flex: 0 0 100%;
+  margin: 0;
+  padding: 0;
+  border-left: none !important;
+  border-right: none !important;
+  background: transparent;
+}
+
+.student-comment-slide p {
+  font-size: 0.84rem;
+  line-height: 1.55;
+  color: #1f2933;
+  text-align: justify;
+  font-style: italic;
+  margin-bottom: 0.65rem;
+}
+
+.student-comment-prev,
+.student-comment-next {
+  border: none;
+  background: transparent;
+  color: #0f3b73;
+  font-size: 1.55rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.2rem 0.4rem;
+}
+
+.student-comment-prev:hover,
+.student-comment-next:hover {
+  color: #0f172a;
+}
