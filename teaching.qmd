@@ -21,29 +21,82 @@ I teach entrepreneurship to high school students from around the world, with an 
 
 I view strategy education as a form of critical-thinking training. My goal is not only to help students learn frameworks, but to help them practice the habits of effective strategists: asking sharper questions, identifying assumptions, comparing alternatives, anticipating consequences, and learning from feedback.
 
-## Classroom Approach
-
-::: {.research-areas}
-
-::: {.research-area}
-**Active Learning**  
-Students learn by applying concepts to entrepreneurial decisions, cases, exercises, and venture-building tasks.
 :::
 
-::: {.research-area}
-**Strategic Reasoning**  
-I emphasize sequencing, tradeoffs, uncertainty, and the logic behind strategic choices.
-:::
+## Selected Unsolicited Student Comments
 
-::: {.research-area}
-**Feedback and Reflection**  
-Students are encouraged to revise their thinking through discussion, peer feedback, and structured reflection.
-:::
+<p class="student-comment-note">
+The comments below were received unsolicited from students after the course and are presented anonymously.
+</p>
 
-:::
+<section class="student-carousel">
 
-## Student Feedback
+<button class="student-comment-prev" aria-label="Previous comment">←</button>
 
-Informal student feedback form coming soon.
+<div class="student-comment-window">
+<div class="student-comment-track">
 
-:::
+<blockquote class="student-comment-slide">
+<p>“I'm reaching out to thank you so much for a very memorable experience in the Essentials of Entrepreneurship program. The couple weeks I spent learning from you have been some of the most inspiring and fascinating experiences I’ve had in any learning environment. I've learned so much about product development, building an MVP, market sizing and much more.</p>
+
+<p>I am grateful for the time you spent helping our class understand the material. Your dedication to teaching made such a difference—this experience was the highlight of my summer. The program deepened my understanding of entrepreneurship, and further sparked my passion for creating positive social impact through venture creation.</p>
+
+<p>I hope the rest of your summer is full of well-deserved relaxation. Thank you again for everything you’ve done for us this summer. I feel very lucky to have been your student.”</p>
+</blockquote>
+
+<blockquote class="student-comment-slide">
+<p>“One thing that has stayed with me wasn't a particular concept or case study—it was the atmosphere you created in the classroom. Every time someone shared an idea, whether polished or completely unformed, you found something worth building on. Instead of searching for the ‘right’ answer, you encouraged us to explore our thinking. Thank you for creating a space where curiosity mattered more than certainty. It's a rare quality in a teacher, and one I genuinely appreciated.”</p>
+</blockquote>
+
+<blockquote class="student-comment-slide">
+<p>“I wanted to message you about how grateful I am for your instruction during my time in the program. I loved hearing your insight on the inner workings of a business. Thank you so much for taking the time and effort to help us grow! It means a lot to me.”</p>
+</blockquote>
+
+<blockquote class="student-comment-slide">
+<p>“Thank you for such an inspiring and engaging experience, as the course really deepened my passion for entrepreneurship and helped me think more critically about real-world problem-solving.”</p>
+</blockquote>
+
+<blockquote class="student-comment-slide">
+<p>“Your energy and willingness to challenge the group helped us grow, and it’s already changing the way I see business and leadership.”</p>
+</blockquote>
+
+<blockquote class="student-comment-slide">
+<p>“I now have a much stronger conceptual foundation for approaching entrepreneurship, and I sincerely hope to share what I learned through this program with my peers in my local community.”</p>
+</blockquote>
+
+</div>
+</div>
+
+<button class="student-comment-next" aria-label="Next comment">→</button>
+
+</section>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const carousel = document.querySelector(".student-carousel");
+  if (!carousel) return;
+
+  const track = carousel.querySelector(".student-comment-track");
+  const slides = carousel.querySelectorAll(".student-comment-slide");
+  const prev = carousel.querySelector(".student-comment-prev");
+  const next = carousel.querySelector(".student-comment-next");
+
+  let index = 0;
+
+  function updateCarousel() {
+    track.style.transform = `translateX(-${index * 100}%)`;
+  }
+
+  prev.addEventListener("click", function () {
+    index = index === 0 ? slides.length - 1 : index - 1;
+    updateCarousel();
+  });
+
+  next.addEventListener("click", function () {
+    index = index === slides.length - 1 ? 0 : index + 1;
+    updateCarousel();
+  });
+
+  updateCarousel();
+});
+</script>

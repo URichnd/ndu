@@ -20,15 +20,15 @@ website:
       - href: teaching.qmd
         text: Teaching
       # - href: writing.qmd
-      # text: Writing
+      #   text: Writing
       - href: cv.qmd
         text: CV
       - href: contact.qmd
         text: Contact
     tools:
-      - icon: linkedin
-        href: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE
-        aria-label: LinkedIn
+    - icon: linkedin
+      href: "https://www.linkedin.com/in/rndu/"
+      aria-label: LinkedIn
 
 format:
   html:
