@@ -14,7 +14,7 @@ This leads me to two broad problems.
 
 ## Sequencing
 
-The first is to understand how strategists use sequencing to navigate consequential decisions under uncertainty. Firms, entrepreneurs, and competitors rarely make all choices at once. They stage commitments, delay certain moves, accelerate others, experiment, reposition, and preserve optionality until better information arrives.
+The first is to understand how strategists use sequencing to navigate consequential decisions under uncertainty. Firms, entrepreneurs, investors, and competitors rarely make all choices at once. They stage commitments, delay certain moves, accelerate others, experiment, reposition, and preserve optionality until better information arrives.
 
 My research asks: when does this kind of sequencing improve performance, and when does it fail? When is delay strategic rather than merely passive? When does early commitment create advantage, and when does it lock firms into the wrong path? More broadly, how do strategists use the ordering of decisions to shape outcomes when the future is uncertain?
 
@@ -26,7 +26,7 @@ This problem has become even more important in the age of AI. As analytical tool
 
 ## How I Am Addressing These Problems
 
-First, I use large-scale data on startups to examine how young firms sequence developmental milestones such as financing, customer validation, adaptation, and growth. Startups provide a powerful empirical setting because early strategic choices are made under severe uncertainty, resource constraints, and shifting external evaluation, and because the ordering of these choices is consequential, even if difficult to observe at scale.
+First, I use large-scale data on startups to examine how young firms sequence developmental milestones such as financing, customer validation, adaptation, and growth. Startups provide a powerful empirical setting because early strategic choices are made under severe uncertainty, resource constraints, and shifting external evaluation, and because the ordering of these choices is consequential, and increasingly observable at scale through new data.
 
 Second, I develop pedagogical approaches that bring strategic reasoning into the classroom. My goal is to design teaching methods that help students practice strategy as a form of disciplined reasoning: identifying the problem, considering alternatives, anticipating responses, sequencing actions, and learning from feedback.
 
