@@ -26,7 +26,7 @@ This problem has become even more important in the age of AI. As analytical tool
 
 ## How I Am Addressing These Problems
 
-First, I use large-scale data on startups to examine how young firms sequence developmental milestones such as financing, customer validation, adaptation, and growth. Startups provide a powerful empirical setting because early strategic choices are made under severe uncertainty, resource constraints, and shifting external evaluation, and because the ordering of these choices is consequential, and increasingly observable at scale through new data.
+First, I use large-scale data on startups to examine how young firms sequence developmental milestones such as financing, customer validation, adaptation, and growth. Startups provide a salient empirical setting because early strategic choices are made under severe uncertainty, resource constraints, and shifting external evaluation, and because the ordering of these choices is consequential, and increasingly observable at scale through new data.
 
 Second, I develop pedagogical approaches that bring strategic reasoning into the classroom. My goal is to design teaching methods that help students practice strategy as a form of disciplined reasoning: identifying the problem, considering alternatives, anticipating responses, sequencing actions, and learning from feedback.
 
