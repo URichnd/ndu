@@ -5,6 +5,7 @@ project:
 website:
   title: "Ndu Ugwuanyi"
   search: false
+  google-analytics: "G-Q7J41YKM9X"
   navbar:
     title: false
     pinned: true
