@@ -113,4 +113,14 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+</script>
+
+<section class="founder-notes teaching-founder-notes">
+  <p>
+    <strong>Founder Notes:</strong> I occasionally send trusted, practical notes on strategy, entrepreneurship, and startups — from finding and testing ideas to getting early customers, choosing a beachhead market, and learning from real venture experiments.
+    <a href="https://ndu-ugwuanyi.kit.com/878b3544af" target="_blank" rel="noopener">Subscribe</a>.
+  </p>
+</section>
+
+
 :::

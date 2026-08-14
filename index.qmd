@@ -35,6 +35,7 @@ title-block-banner: false
     <p>
       I am a doctoral candidate in Strategy and Entrepreneurship at the Wharton School, University of Pennsylvania. My research examines strategic decision-making under uncertainty, with a particular focus on venture development, product-market learning, and the commercialization of emerging technologies.
     </p>
+
 <!--
     <p>
       My interest in strategy began well before graduate school. As a teenager, I helped manage a family business in a competitive market, an experience that gave me an early view of how resource constraints, competitive pressure, and judgment shape firm outcomes. I later developed a parallel interest in decision-making through competitive chess. I have also used chess as an empirical setting to study how experience, expertise, and attention shape strategic behavior.
@@ -55,6 +56,13 @@ title-block-banner: false
   </div>
 </section>
 ```
+
+<section class="founder-notes">
+  <p>
+    <strong>Founder Notes:</strong> I occasionally send trusted, practical notes on strategy, entrepreneurship, and startups — from finding and testing ideas to getting early customers, choosing a beachhead market, and learning from real venture experiments.
+    <a href="https://ndu-ugwuanyi.kit.com/878b3544af" target="_blank" rel="noopener">Subscribe</a>.
+  </p>
+</section>
 
 <!--
 <section class="home-section">
