@@ -5,7 +5,7 @@ pagetitle: "Research"
 ::: {.standard-page .research-page}
 
 ::: {.page-lede}
-My research advances a sequencing perspective on entrepreneurial development: founders exercise discretion over when strategic activities occur relative to one another, and this sequencing is a source of performance heterogeneity
+My research advances a sequencing perspective on entrepreneurial development: founders exercise discretion over the timing of developmental milestones such as external financing and customer validation, and this sequencing has implications for a venture's subsequent development and performance.
 :::
 
 ## Working Papers
@@ -15,10 +15,10 @@ My research advances a sequencing perspective on entrepreneurial development: fo
 
 **Job Market Paper**
 
-Strategic Delay examines whether founders exercise discretion over when to accept venture capital and the relationship between the timing of entry and venture development. I introduce a risk-adjusted measure of delay. Startups that appear to delay strategically seem to enter venture capital in a more developed state, engage in less post-financing repositioning, and face a tradeoff between exit quality and acquisition likelihood.
+My job market paper examines whether founders exercise discretion over when to accept venture capital and the implications for the venture's subsequent developmental path and performance. I introduce a measure of discretion, strategic delay. Startups that delay strategically seem to enter venture capital in a more developed state, engage in less post-financing repositioning, and face a tradeoff between exit quality and acquisition likelihood.
 
 
-[Read more →](job-market-paper.html)
+[Read more](job-market-paper.html)
 
 *Manuscript available on request.*
 
